@@ -1,0 +1,9 @@
+#cover {
+    width: 285px;
+    height: 285px;
+    position: relative;
+    z-index: 1;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}

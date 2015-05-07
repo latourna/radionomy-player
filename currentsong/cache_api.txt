@@ -1,0 +1,28 @@
+
+    <tracks>
+    	<radioname>Rubbish Radio</radioname>
+        <rank>0</rank>
+    	<isradionomy>1</isradionomy>
+        <radurl>http://www.radionomy.com/rubbishradio</radurl>
+        <track>
+        	<uniqueid>2299369490</uniqueid>
+        	<title>Binary (Original Mix)</title>
+            <artists>Etienne de Crecy</artists>
+            <starttime>2015-05-07 21:22:12.177</starttime>
+            <playduration>210894</playduration>
+            <current>1</current>
+            
+                         <cover>http://i.radionomy.com/document/tracks/7/748f/748f385e-c419-4454-ab9c-c4788f3aaa46.jpg</cover>
+                    
+            	
+            
+				
+            	<callmeback>115641</callmeback>
+                
+			
+			
+        </track> 
+        
+        
+    </tracks>
+	
